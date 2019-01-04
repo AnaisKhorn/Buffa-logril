@@ -1,0 +1,44 @@
+.restoInfoContainer {
+    width : 100%;
+    height: 200px;
+    background-color: #525252;
+    color : white;
+}
+
+input:invalid {
+    background-color:lightpink;
+}
+
+input:valid {
+    background-color:lightgreen;
+}
+
+table
+{
+    margin: auto;
+}
+
+input, h3
+{
+    margin-bottom: 20px;
+}
+
+h1
+{
+    text-align: center;
+}
+
+h3
+{
+    text-align: center;
+}
+
+.sliderRow > input
+{
+    width : 50%;
+}
+
+label
+{
+    text-align: center;
+}
